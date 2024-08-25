@@ -24,8 +24,8 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/VENOMxCRAZYOP/VENOMxDDOS
-   cd VENOMxDDOS
+   git clone https://github.com/yourusername/ddos-attack-bot.git
+   cd ddos-attack-bot
    ```
 
 2. Install the required libraries:
@@ -34,7 +34,6 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
    pip install telebot
    pip install flask
    pip install aiogram
-   pip install pyTelegramBotAPI
    ```
 
 ### Configuration
@@ -59,7 +58,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 
    ```sh
    chmod +x *
-   python venom.py
+   python watcher.py
    ```
 
 2. Interact with the bot on Telegram using the available commands.
