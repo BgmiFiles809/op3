@@ -1,4 +1,4 @@
-flask
-aiogram
-pyTelegramBotApi
-pymongo
+pip install flask
+pip install aiogram
+pip install pyTelegramBotApi
+pip install pymongo
